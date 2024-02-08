@@ -8,7 +8,7 @@ The material is split into three notebooks:
 
 This notebook explores some of the fundamental concepts about radio signals, modulation and demodulation, mixing, quadrature signals, etc.
 
-## Part 2: FM Demodulation Demonstration (TODO)
+## Part 2: FM Demodulation Demonstration
 
 This notebook uses IQ samples acquired from an RTL-SDR dongle to demodulate and playback audio from FM broadcast radio stations. It demonstrates filtering, decimation, and FM demodulation.
 
